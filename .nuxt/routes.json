@@ -1,0 +1,64 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "E:\\\\githubworkspace\\\\realWorld-nuxtJs\\\\pages\\\\login\\\\index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_6627c70e"
+  },
+  {
+    "name": "settings",
+    "path": "/settings",
+    "component": "E:\\\\githubworkspace\\\\realWorld-nuxtJs\\\\pages\\\\settings\\\\index.vue",
+    "chunkName": "pages/settings/index",
+    "_name": "_b6702162"
+  },
+  {
+    "name": "article-components-article-comment",
+    "path": "/article/components/article-comment",
+    "component": "E:\\\\githubworkspace\\\\realWorld-nuxtJs\\\\pages\\\\article\\\\components\\\\article-comment.vue",
+    "chunkName": "pages/article/components/article-comment",
+    "_name": "_0fb3cda8"
+  },
+  {
+    "name": "article-components-article-meta",
+    "path": "/article/components/article-meta",
+    "component": "E:\\\\githubworkspace\\\\realWorld-nuxtJs\\\\pages\\\\article\\\\components\\\\article-meta.vue",
+    "chunkName": "pages/article/components/article-meta",
+    "_name": "_25e5a288"
+  },
+  {
+    "name": "article-slug",
+    "path": "/article/:slug?",
+    "component": "E:\\\\githubworkspace\\\\realWorld-nuxtJs\\\\pages\\\\article\\\\_slug.vue",
+    "chunkName": "pages/article/_slug",
+    "_name": "_8e0664f8"
+  },
+  {
+    "name": "editor-slug",
+    "path": "/editor/:slug?",
+    "component": "E:\\\\githubworkspace\\\\realWorld-nuxtJs\\\\pages\\\\editor\\\\_slug.vue",
+    "chunkName": "pages/editor/_slug",
+    "_name": "_5957907d"
+  },
+  {
+    "name": "profile-username",
+    "path": "/profile/:username?",
+    "component": "E:\\\\githubworkspace\\\\realWorld-nuxtJs\\\\pages\\\\profile\\\\_username.vue",
+    "chunkName": "pages/profile/_username",
+    "_name": "_edfd06c8"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "E:\\\\githubworkspace\\\\realWorld-nuxtJs\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_014d8cd2"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "E:\\\\githubworkspace\\\\realWorld-nuxtJs\\\\pages\\\\login\\\\index.vue",
+    "_name": "_6627c70e"
+  }
+]
